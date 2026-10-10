@@ -1,3 +1,5 @@
+[ 🇫🇷 Français ](README.fr.md) | [ 🇬🇧 English ](README.md)
+
 # Track Investment Pool Ownership Fairly When Capital Enters at Different Times
 
 <div align="center">
